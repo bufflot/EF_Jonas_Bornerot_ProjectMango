@@ -1,0 +1,6 @@
+C:\Users\Jonas\source\repos\ProjectMango\Mango.Domain\bin\Debug\Mango.Domain.dll
+C:\Users\Jonas\source\repos\ProjectMango\Mango.Domain\bin\Debug\Mango.Domain.pdb
+C:\Users\Jonas\source\repos\ProjectMango\Mango.Domain\obj\Debug\Mango.Domain.csprojAssemblyReference.cache
+C:\Users\Jonas\source\repos\ProjectMango\Mango.Domain\obj\Debug\Mango.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\source\repos\ProjectMango\Mango.Domain\obj\Debug\Mango.Domain.dll
+C:\Users\Jonas\source\repos\ProjectMango\Mango.Domain\obj\Debug\Mango.Domain.pdb

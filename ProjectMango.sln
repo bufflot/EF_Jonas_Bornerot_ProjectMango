@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Data", "Mango.Data\Mango.Data.csproj", "{FF85C13C-6B04-4E4E-9BDD-6483E8528F39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Domain", "Mango.Domain\Mango.Domain.csproj", "{2A44B05E-52BD-4DCF-BC7B-5A0929D79F25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{CF6C8CFF-5459-40A5-A8C6-5E18E9C9FBE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{FF85C13C-6B04-4E4E-9BDD-6483E8528F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF85C13C-6B04-4E4E-9BDD-6483E8528F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF85C13C-6B04-4E4E-9BDD-6483E8528F39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A44B05E-52BD-4DCF-BC7B-5A0929D79F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A44B05E-52BD-4DCF-BC7B-5A0929D79F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A44B05E-52BD-4DCF-BC7B-5A0929D79F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A44B05E-52BD-4DCF-BC7B-5A0929D79F25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF6C8CFF-5459-40A5-A8C6-5E18E9C9FBE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF6C8CFF-5459-40A5-A8C6-5E18E9C9FBE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF6C8CFF-5459-40A5-A8C6-5E18E9C9FBE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF6C8CFF-5459-40A5-A8C6-5E18E9C9FBE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
